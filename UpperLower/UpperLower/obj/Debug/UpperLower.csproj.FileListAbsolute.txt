@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\bin\Debug\UpperLower.exe.config
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\bin\Debug\UpperLower.exe
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\bin\Debug\UpperLower.pdb
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\obj\Debug\UpperLower.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\obj\Debug\UpperLower.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\obj\Debug\UpperLower.exe
+C:\Users\Shaju\source\repos\UpperLower\UpperLower\obj\Debug\UpperLower.pdb

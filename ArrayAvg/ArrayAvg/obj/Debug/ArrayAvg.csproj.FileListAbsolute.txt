@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.exe.config
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.exe
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\bin\Debug\ArrayAvg.pdb
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.exe
+C:\Users\Shaju\source\repos\ArrayAvg\ArrayAvg\obj\Debug\ArrayAvg.pdb

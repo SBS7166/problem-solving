@@ -1,0 +1,6 @@
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe.config
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\bin\Debug\EvenNumber.exe
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\bin\Debug\EvenNumber.pdb
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\obj\Debug\EvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\obj\Debug\EvenNumber.exe
+C:\Users\Shaju\source\repos\EvenNumber\EvenNumber\obj\Debug\EvenNumber.pdb

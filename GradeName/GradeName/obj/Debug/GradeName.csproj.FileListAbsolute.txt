@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\GradeName\GradeName\bin\Debug\GradeName.exe.config
+C:\Users\Shaju\source\repos\GradeName\GradeName\bin\Debug\GradeName.exe
+C:\Users\Shaju\source\repos\GradeName\GradeName\bin\Debug\GradeName.pdb
+C:\Users\Shaju\source\repos\GradeName\GradeName\obj\Debug\GradeName.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\GradeName\GradeName\obj\Debug\GradeName.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\GradeName\GradeName\obj\Debug\GradeName.exe
+C:\Users\Shaju\source\repos\GradeName\GradeName\obj\Debug\GradeName.pdb

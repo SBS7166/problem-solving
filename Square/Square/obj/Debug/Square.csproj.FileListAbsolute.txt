@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\Square\Square\bin\Debug\Square.exe.config
+C:\Users\Shaju\source\repos\Square\Square\bin\Debug\Square.exe
+C:\Users\Shaju\source\repos\Square\Square\bin\Debug\Square.pdb
+C:\Users\Shaju\source\repos\Square\Square\obj\Debug\Square.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\Square\Square\obj\Debug\Square.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\Square\Square\obj\Debug\Square.exe
+C:\Users\Shaju\source\repos\Square\Square\obj\Debug\Square.pdb

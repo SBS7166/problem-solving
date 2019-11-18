@@ -1,0 +1,10 @@
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe.config
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.exe
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\bin\Debug\InterestCalculator.pdb
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Form1.resources
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.Properties.Resources.resources
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.GenerateResource.cache
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.exe
+C:\Users\Shaju\source\repos\InterestCalculator\InterestCalculator\obj\Debug\InterestCalculator.pdb

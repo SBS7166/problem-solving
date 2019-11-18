@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\bin\Debug\ArryalistMinMax.exe.config
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\bin\Debug\ArryalistMinMax.exe
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\bin\Debug\ArryalistMinMax.pdb
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\obj\Debug\ArryalistMinMax.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\obj\Debug\ArryalistMinMax.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\obj\Debug\ArryalistMinMax.exe
+C:\Users\Shaju\source\repos\ArryalistMinMax\ArryalistMinMax\obj\Debug\ArryalistMinMax.pdb

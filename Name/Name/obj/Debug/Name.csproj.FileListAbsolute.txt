@@ -1,0 +1,7 @@
+C:\Users\Shaju\source\repos\Name\Name\bin\Debug\Name.exe.config
+C:\Users\Shaju\source\repos\Name\Name\bin\Debug\Name.exe
+C:\Users\Shaju\source\repos\Name\Name\bin\Debug\Name.pdb
+C:\Users\Shaju\source\repos\Name\Name\obj\Debug\Name.csprojAssemblyReference.cache
+C:\Users\Shaju\source\repos\Name\Name\obj\Debug\Name.csproj.CoreCompileInputs.cache
+C:\Users\Shaju\source\repos\Name\Name\obj\Debug\Name.exe
+C:\Users\Shaju\source\repos\Name\Name\obj\Debug\Name.pdb
